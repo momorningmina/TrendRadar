@@ -1,49 +1,7 @@
-胖东来
-于东来
-
 DeepSeek
+deepseek
+深度求索
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
-
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
 
 字节
 bytedance
@@ -79,35 +37,144 @@ mac
 ios
 
 ai
-!gai
 人工智能
+大模型
+生成式AI
+通用人工智能
+智能体
+算力
+机器视觉
+自然语言处理
 
-自动驾驶
+AI
+AGI
+LLM
+Large Language Model
+Generative AI
+GenAI
+AI Agent
+NLP
+Computer Vision
 
-机器人
+OpenAI
+Google
+DeepMind
+Meta
+Facebook AI
+Apple
+NVIDIA
+Anthropic
+Tesla 
+Optimus
+FSD
+Hugging Face
 
-国产
-中国
+百度
+文心
+文心一言
+阿里巴巴
+通义
+通义千问
+Qwen
+qwen
+腾讯
+混元
+字节跳动
+豆包
+扣子
+科大讯飞
 
-美国
-日本
-韩国
+Midjourney
+Stability AI
+Perplexity
+Cohere
+Mistral
+Character.AI
 
-芯片
-光刻机
+月之暗面
+Moonshot
+智谱AI
+Zhipu
+百川智能
+Baichuan
+零一万物
+01.AI
+MiniMax
 
-科技
+GPT-4
+GPT-4o
+GPT-5.1
+o1 
+OpenAI o1
+ChatGPT
 
-核能
+Claude 3
+Claude 3.5
+Claude Opus
+Sonnet
 
-水电站
-雅鲁藏布江
+Gemini
+Gemma, PaLM
 
-新质生产力
+Llama 3
+Llama 4
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+Mistral
+Grok
+
+Midjourney v6
+Niji
+
+Stable Diffusion 3
+SDXL, Flux
+DALL-E
+
+Sora
+Runway Gen-3
+Pika, Kling
+可灵
+Vidu
+
+Suno
+Udio
+AI音乐
+
+Transformer
+MoE
+LoRA
+Fine-tuning
+Quantization
+Context Window
+
+RAG
+检索增强生成
+CoT
+思维链
+RLHF
+人类反馈强化学习
+Prompt Engineering
+提示工程
+提示词工程
+Agentic Workflow
+智能体工作流
+agent
+Agent
+智能体
+
+LangChain
+LlamaIndex
+AutoGPT
+Cursor
+Copilot
+Codex
+
+AI Safety
+AI Ethics
+幻觉
+Hallucination
+深度伪造
+Deepfake
+数据泄露
+版权侵权
+欧盟AI法案
+算力禁令
